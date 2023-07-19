@@ -7,3 +7,16 @@ jobs:
     steps:
       - name: my-step
         run: echo "Hello World!"
+
+
+# APIGEE - Policies;Architecture; Workflow - post flow client pre flow, proxy and target;
+# msg logging, service call out, flow call out, shared flow, flow hook, 
+
+
+# # GitHubActions - 
+# Normal HTML; nginx pipeline; 
+# checkout and host;
+
+# Self hosted runner; 
+
+# Upload Artifacts and Download Artifacts;
